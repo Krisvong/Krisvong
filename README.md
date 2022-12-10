@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi, I'm Kristen 👋 :star2::computer:
 
 <!--
 **Krisvong/Krisvong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+I am currently enrolled in a Software Developement Bootcamp at NC State in North Carolina. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Blue and Black Corporate LinkedIn Banner](https://user-images.githubusercontent.com/114873598/206870559-5e08ff7b-60f1-4119-9e92-ae74bcd6d3d5.png)
